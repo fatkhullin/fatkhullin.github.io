@@ -50,7 +50,7 @@ layout: default
 
 - Peter Richtárik, Igor Sokolov, Ilyas Fatkhullin, Elnur Gasanov, Eduard Gorbunov, Zhize Li. <b>3PC: Three Point Compressors for Communication-Efficient Distributed Training and a Better Theory for Lazy Aggregation</b>, ICML 2022 (spotlight).
 
-- Ilyas Fatkhullin, Igor Sokolov, Eduard Gorbunov, Zhize Li, Peter Richtárik. <b>EF21 with Bells & Whistles: Practical Algorithmic Extensions of Modern Error Feedback</b>, OptML workshopt at NeurIPS 2021. Preprint: arXiv:2110.03294v1 (2021).
+- Ilyas Fatkhullin, Igor Sokolov, Eduard Gorbunov, Zhize Li, Peter Richtárik. <b>EF21 with Bells & Whistles: Practical Algorithmic Extensions of Modern Error Feedback</b>, OptML workshop at NeurIPS 2021. Preprint: arXiv:2110.03294v1 (2021).
 
 - Peter Richtárik, Igor Sokolov, Ilyas Fatkhullin. <b>EF21: A New, Simpler, Theoretically Better, and Practically Faster Error Feedback</b>, NeurIPS 2021 (oral).
 
