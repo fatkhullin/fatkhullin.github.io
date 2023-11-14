@@ -30,7 +30,7 @@ layout: default
       <br/><br/>
       Previously, I had an honor to work with Prof. Boris Teodorovich Polyak and Prof. Peter Richtárik.
     </td>
-    <td style="float: right;width: 120%;border:none">
+    <td style="float: right;width: 100%;border:none">
       <img src="my_photo.jpg">
     </td>
   </tr>
