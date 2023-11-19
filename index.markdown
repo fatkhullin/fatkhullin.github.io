@@ -5,36 +5,13 @@
 layout: default
 ---
 
-<table>
-  <tr>
-    <td style="border:none">
-      <a href="#about"><h3>About</h3></a>
-    </td>
-    <td style="border:none">
-      <a href="#publ"><h3>Publications</h3></a>
-    </td>
-    <td style="border:none">
-      <a href="#cont"><h3>Contact</h3></a>
-    </td>
-  </tr>
-</table>
-
----
 
 ## About me {#about}
 
-<table>
-  <tr>
-    <td style="border:none;">
-      I am a second-year PhD student at ETH Zurich and ETH AI Center supervised by Prof. Niao He and Prof. Francesco Corman. My research interests include large-scale optimization, reinforcement learning and federated learning.
-      <br/><br/>
-      Previously, I had an honor to work with Prof. Boris Teodorovich Polyak and Prof. Peter Richtárik.
-    </td>
-    <td style="float: right;width: 100%;border:none">
-      <img src="my_photo.jpg">
-    </td>
-  </tr>
-</table>
+I am a second-year PhD student at ETH Zurich and ETH AI Center supervised by Prof. Niao He and Prof. Francesco Corman. My research interests include large-scale optimization, reinforcement learning and federated learning.
+
+Previously, I had an honor to work with Prof. Boris Teodorovich Polyak and Prof. Peter Richtárik.
+
 
 ## Publications {#publ}
 
