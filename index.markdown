@@ -4,8 +4,21 @@
 
 layout: default
 ---
+<table>
+  <tr>
+    <td style="border:none">
+      <a href="#about"><h3>About</h3></a>
+    </td>
+    <td style="border:none">
+      <a href="#publ"><h3>Publications</h3></a>
+    </td>
+    <td style="border:none">
+      <a href="#cont"><h3>Contact</h3></a>
+    </td>
+  </tr>
+</table>
 
-
+---
 ## About me {#about}
 
 I am a second-year PhD student at ETH Zurich and ETH AI Center supervised by Prof. Niao He and Prof. Francesco Corman. My research interests include large-scale optimization, reinforcement learning and federated learning.
