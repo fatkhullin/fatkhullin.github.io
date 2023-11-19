@@ -28,7 +28,7 @@ Previously, I had an honor to work with Prof. Boris Teodorovich Polyak and Prof.
 
 ## Publications {#publ}
 
-- Ilyas Fatkhullin, Alexander Tyurin, Peter Richtárik. <b>Momentum Provably Improves Error Feedback!</b>, NeurIPS 2023.
+- Ilyas Fatkhullin, Alexander Tyurin, Peter Richtárik. [Momentum Provably Improves Error Feedback!](https://arxiv.org/abs/2305.15155), NeurIPS 2023.
 
 - Junchi Yang, Xiang Li, Ilyas Fatkhullin, Niao He. <b>Two Sides of One Coin: the Limits of Untuned SGD and the Power of Adaptive Methods</b>, NeurIPS 2023.
 
