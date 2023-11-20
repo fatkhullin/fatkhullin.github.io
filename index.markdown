@@ -25,6 +25,8 @@ I am a second-year PhD student at ETH Zurich and ETH AI Center supervised by Pro
 
 Previously, I had an honor to work with Prof. Boris Teodorovich Polyak and Prof. Peter Richtárik.
 
+[![Google Scholar](/assets/google_scholar_logo.png)](https://scholar.google.com/citations?user=UCOWHb4AAAAJ&hl=en)
+
 
 ## Publications {#publ}
 
