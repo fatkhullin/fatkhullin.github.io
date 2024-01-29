@@ -4,7 +4,7 @@
 
 layout: default
 title: Contact
-permalink: /Contact/
+permalink: /contact/
 ---
 <table>
   <tr>
