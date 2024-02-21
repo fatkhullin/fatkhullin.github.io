@@ -24,6 +24,8 @@ permalink: /publications/
 
 - Ilyas Fatkhullin, Niao He, Yifan Hu. [Stochastic Optimization under Hidden Convexity](https://arxiv.org/abs/2401.00108), OptML workshop at NeurIPS 2023.
 
+- Jiduan Wu, Anas Barakat, Ilyas Fatkhullin, Niao He. [Learning Zero-Sum Linear Quadratic Games with Improved Sample Complexity](https://arxiv.org/abs/2309.04272), Conference on Decision and Control 2023.
+
 - Ilyas Fatkhullin, Alexander Tyurin, Peter Richtárik. [Momentum Provably Improves Error Feedback!](https://arxiv.org/abs/2305.15155), NeurIPS 2023.
 
 - Junchi Yang, Xiang Li, Ilyas Fatkhullin, Niao He. [Two Sides of One Coin: the Limits of Untuned SGD and the Power of Adaptive Methods](https://arxiv.org/abs/2305.12475), NeurIPS 2023.
