@@ -22,6 +22,9 @@ permalink: /Publications/
 ---
 # Publications {#publ}
 
+- Ilyas Fatkhullin, Niao He. [Taming Nonconvex Stochastic Mirror Descent with General Bregman
+ Divergence](https://arxiv.org/abs/2402.17722), AISTATS 2024.
+
 - Ilyas Fatkhullin, Niao He, Yifan Hu. [Stochastic Optimization under Hidden Convexity](https://arxiv.org/abs/2401.00108), OptML workshop at NeurIPS 2023.
 
 - Jiduan Wu, Anas Barakat, Ilyas Fatkhullin, Niao He. [Learning Zero-Sum Linear Quadratic Games with Improved Sample Complexity](https://arxiv.org/abs/2309.04272), Conference on Decision and Control 2023.
