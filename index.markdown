@@ -21,9 +21,9 @@ layout: default
 ---
 # About {#about}
 
-I am a third-year PhD student at ETH AI Center and ETH Zurich supervised by Prof. Niao He. My research interests include large-scale optimization, reinforcement learning and federated learning.
+I am a third-year PhD student at ETH AI Center and ETH Zurich advised by [Prof. Niao He](https://odi.inf.ethz.ch/niaohe). My research interests include large-scale optimization, reinforcement learning and federated learning.
 
-Previously, I had an honor to work with Prof. Boris Teodorovich Polyak and Prof. Peter Richtárik.
+Previously, I had an honor to work with [Prof. Boris T. Polyak](https://scholar.google.com/citations?user=Zhlib28AAAAJ&hl=en) and [Prof. Peter Richtárik](https://richtarik.org).
 
 [![Google Scholar](/assets/google_scholar_logo.png){:width="30px"}](https://scholar.google.com/citations?user=UCOWHb4AAAAJ&hl=en)
 [![Google Scholar](/assets/ai_center_logo.jpeg){:width="30px"}](https://ai.ethz.ch/about-us/people/doctoral-students.html)
