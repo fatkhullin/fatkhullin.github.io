@@ -5,7 +5,7 @@
 
 layout: default
 title: Publications
-permalink: /Publications/
+permalink: /publications/
 ---
 <table>
   <tr>
@@ -31,7 +31,7 @@ permalink: /Publications/
       <span style="cursor:pointer;" onclick="toggleVisibility('pub1', this)">&#x25BC; Poster</span>
     </div>
     <div id="pub1" style="display:none; margin-top: 10px;">
-      <img src="/assets/posters/Poster_NC_SMD.pdf" alt="Poster for Paper Title 1" style="width:100%; max-width:800px;" onclick="openModal(this.src)" />
+      <img src="/assets/posters/Poster_NC_SMD.pdf" alt="Poster for Nonconvex SMD" style="width:100%; max-width:800px;" onclick="openModal(this.src)" />
     </div>
   </li>
   <li style="margin-bottom: 20px;">
@@ -40,7 +40,7 @@ permalink: /Publications/
       <span style="cursor:pointer;" onclick="toggleVisibility('pub2', this)">&#x25BC; Poster</span>
     </div>
     <div id="pub2" style="display:none; margin-top: 10px;">
-      <img src="/assets/posters/Poster_Hidden_Convexity.pdf" alt="Poster for Paper Title 2" style="width:100%; max-width:800px;" onclick="openModal(this.src)" />
+      <img src="/assets/posters/Poster_Hidden_Convexity.pdf" alt="Poster for Hidden Convexity" style="width:100%; max-width:800px;" onclick="openModal(this.src)" />
     </div>
   </li>
   <li style="margin-bottom: 20px;">
