@@ -5,7 +5,7 @@
 
 layout: default
 title: Publications
-permalink: /Publications/
+permalink: /publications/
 ---
 <table>
   <tr>
