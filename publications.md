@@ -24,7 +24,9 @@ permalink: /publications/
 
 # Publications {#publ}
 
-
+<li style="margin-bottom: 20px;">
+  Florian Hübler*, Ilyas Fatkhullin*, Niao He. <a href="https://arxiv.org/abs/2402.17722">From Gradient Clipping to Normalization for Heavy Tailed SGD</a>, AISTATS 2025.
+</li>
   <li style="margin-bottom: 20px;">
     Ilyas Fatkhullin, Niao He. <a href="https://arxiv.org/abs/2402.17722">Taming Nonconvex Stochastic Mirror Descent with General Bregman Divergence</a>, AISTATS 2024.
     <div style="display:block; margin-top: 10px;">
@@ -60,7 +62,7 @@ permalink: /publications/
   <li style="margin-bottom: 20px;">
     Ilyas Fatkhullin, Anas Barakat, Anastasia Kireeva, Niao He. <a href="https://proceedings.mlr.press/v202/fatkhullin23a.html">Stochastic Policy Gradient Methods: Improved Sample Complexity for Fisher-non-degenerate Policies</a>, ICML 2023.
   </li><li style="margin-bottom: 20px;">
-    Ilyas Fatkhullin, Jalal Etesami, Niao He, Negar Kiyavash. <a href="https://arxiv.org/abs/2210.01748">Sharp Analysis of Stochastic Optimization under Global Kurdyka-Łojasiewicz Inequality</a>, NeurIPS 2022.
+    Ilyas Fatkhullin*, Jalal Etesami*, Niao He, Negar Kiyavash. <a href="https://arxiv.org/abs/2210.01748">Sharp Analysis of Stochastic Optimization under Global Kurdyka-Łojasiewicz Inequality</a>, NeurIPS 2022.
   </li><li style="margin-bottom: 20px;">
     Peter Richtárik, Igor Sokolov, Ilyas Fatkhullin, Elnur Gasanov, Eduard Gorbunov, Zhize Li. <a href="https://arxiv.org/abs/2202.00998">3PC: Three Point Compressors for Communication-Efficient Distributed Training and a Better Theory for Lazy Aggregation</a>, ICML 2022 (spotlight).
   </li><li style="margin-bottom: 20px;">
