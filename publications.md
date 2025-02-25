@@ -25,7 +25,7 @@ permalink: /publications/
 # Publications {#publ}
 
 <li style="margin-bottom: 20px;">
-  Florian Hübler*, Ilyas Fatkhullin*, Niao He. <a href="https://arxiv.org/abs/2402.17722">From Gradient Clipping to Normalization for Heavy Tailed SGD</a>, AISTATS 2025.
+  Florian Hübler*, Ilyas Fatkhullin*, Niao He. <a href="https://arxiv.org/abs/2410.13849">From Gradient Clipping to Normalization for Heavy Tailed SGD</a>, AISTATS 2025.
 </li>
 <li style="margin-bottom: 20px;">
   Ilyas Fatkhullin, Niao He.  
