@@ -41,44 +41,69 @@ My research focuses on developing theoretical foundations and practical algorith
 </div>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin-top: 30px;">
-<div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+<div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); transition: transform 0.2s;">
 <h3 style="color: #2c3e50; margin-top: 0;">
 <i class="fas fa-chart-line" style="margin-right: 10px; color: #3498db;"></i>
 Large-Scale Optimization
 </h3>
+<p style="color: #666; font-size: 0.95em; margin-bottom: 15px;">
+Designing scalable optimization algorithms for efficient training of modern machine learning models.
+</p>
 <ul style="list-style-type: none; padding-left: 0;">
 <li style="margin-bottom: 8px;">• Stochastic optimization</li>
 <li style="margin-bottom: 8px;">• Adaptive and parameter-free algorithms</li>
 <li style="margin-bottom: 8px;">• Communication-efficient distributed training</li>
 </ul>
+<div style="margin-top: 15px; font-size: 0.9em;">
+<a href="/publications#publ" style="color: #3498db; text-decoration: none;">View related publications →</a>
+</div>
 </div>
 
-<div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+<div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); transition: transform 0.2s;">
 <h3 style="color: #2c3e50; margin-top: 0;">
 <i class="fas fa-robot" style="margin-right: 10px; color: #e74c3c;"></i>
 Reinforcement Learning and Control
 </h3>
+<p style="color: #666; font-size: 0.95em; margin-bottom: 15px;">
+Developing principled approaches to decision-making under uncertainty with focus on efficiency, safety, and interpretability.
+</p>
 <ul style="list-style-type: none; padding-left: 0;">
-<li style="margin-bottom: 8px;">• Computational and sample efficiency</li>
-<li style="margin-bottom: 8px;">• Safe reinforcement learning</li>
-<li style="margin-bottom: 8px;">• Multi-agent reinforcement learning</li>
+<li style="margin-bottom: 8px;">• Sample and computational efficiency</li>
+<li style="margin-bottom: 8px;">• Safe and robust RL algorithms</li>
+<li style="margin-bottom: 8px;">• Multi-agent learning and games</li>
 </ul>
+<div style="margin-top: 15px; font-size: 0.9em;">
+<a href="/publications#publ" style="color: #e74c3c; text-decoration: none;">View related publications →</a>
+</div>
 </div>
 
-<div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+<div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); transition: transform 0.2s;">
 <h3 style="color: #2c3e50; margin-top: 0;">
 <i class="fas fa-cube" style="margin-right: 10px; color: #2ecc71;"></i>
 Theoretical Foundations
 </h3>
+<p style="color: #666; font-size: 0.95em; margin-bottom: 15px;">
+Uncovering fundamental properties of optimization problems and establishing rigorous theoretical guarantees for algorithmic performance.
+</p>
 <ul style="list-style-type: none; padding-left: 0;">
-<li style="margin-bottom: 8px;">• Non-convex optimization</li>
-<li style="margin-bottom: 8px;">• Hidden convexity and convex reformulations</li>
+<li style="margin-bottom: 8px;">• Non-convex optimization theory</li>
+<li style="margin-bottom: 8px;">• Hidden convexity and reformulations</li>
 <li style="margin-bottom: 8px;">• Heavy-tailed distributions</li>
 <li style="margin-bottom: 8px;">• Non-Euclidean geometries</li>
 </ul>
+<div style="margin-top: 15px; font-size: 0.9em;">
+<a href="/publications#publ" style="color: #2ecc71; text-decoration: none;">View related publications →</a>
+</div>
 </div>
 </div>
 
 <div style="text-align: justify; max-width: 800px; margin: 30px auto 0;">
-Each research area is supported by both theoretical guarantees and practical implementations, with a focus on developing algorithms that are both theoretically sound and practically efficient.
+My research approach combines theoretical rigor with practical efficiency. Each project aims to develop algorithms that are both theoretically sound and practically efficient, with a particular focus on understanding fundamental properties and establishing rigorous guarantees.
 </div>
+
+<style>
+div[style*="background-color: #f8f9fa"]:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+}
+</style>
