@@ -9,7 +9,10 @@ permalink: /contact/
 <table>
   <tr>
     <td style="border:none">
-      <a href="/index"><h3>About</h3></a>
+      <a href="/"><h3>About</h3></a>
+    </td>
+    <td style="border:none">
+      <a href="/#research"><h3>Research</h3></a>
     </td>
     <td style="border:none">
       <a href="/publications"><h3>Publications</h3></a>
@@ -22,6 +25,6 @@ permalink: /contact/
 ---
 # Contact {#contact}
 
-Current address: ETH AI Center, OAT X 14, Andreasstrasse 5, 8092 Zürich, Switzerland
+Current address: ETH AI Center, OAT X 14, Andreasstrasse 5, 8092 Zürich, Switzerland
 
 E-mail: name.last_name(at)ai(dot)ethz(dot)ch

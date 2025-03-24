@@ -10,7 +10,10 @@ permalink: /publications/
 <table>
   <tr>
     <td style="border:none">
-      <a href="/index"><h3>About</h3></a>
+      <a href="/"><h3>About</h3></a>
+    </td>
+    <td style="border:none">
+      <a href="/#research"><h3>Research</h3></a>
     </td>
     <td style="border:none">
       <a href="#publ"><h3>Publications</h3></a>
@@ -109,7 +112,7 @@ permalink: /publications/
     Ilyas Fatkhullin, Boris Polyak. <a href="https://arxiv.org/abs/2004.09875">Optimizing Static Linear Feedback: Gradient Method</a>, SIAM Journal on Control and Optimization 59, 3887-3911 (2021).
 
   </li><li style="margin-bottom: 20px;">
-    Boris Polyak, Ilyas Fatkhullin. <a href="https://link.springer.com/article/10.1134/S0965542520050127">Use of Projective Coordinate Descent in the Fekete Problem</a>, Comput. Math. and Math. Phys. 60, 795–807 (2020).
+    Boris Polyak, Ilyas Fatkhullin. <a href="https://link.springer.com/article/10.1134/S0965542520050127">Use of Projective Coordinate Descent in the Fekete Problem</a>, Comput. Math. and Math. Phys. 60, 795–807 (2020).
   </li>
   <!-- Add more publications here, ensuring consistency -->
 
