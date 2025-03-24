@@ -25,9 +25,19 @@ layout: default
 ---
 # About {#about}
 
-I am a final year PhD student at ETH Zurich and ETH AI Center advised by [Prof. Niao He](https://odi.inf.ethz.ch/niaohe). My research interests include large-scale optimization, reinforcement learning and federated learning.
+I am a final year PhD student at ETH Zurich advised by [Prof. Niao He](https://odi.inf.ethz.ch/niaohe). My research focuses on developing theoretically-grounded algorithms for machine learning and optimization, with particular emphasis on large-scale optimization, reinforcement learning, and theoretical foundations. Previously, I had an honor to work with [Prof. Boris Polyak](https://scholar.google.com/citations?user=Zhlib28AAAAJ&hl=en) on control theory problems and with [Prof. Peter Richtárik](https://richtarik.org) on federated learning, focusing on communication-efficient distributed training.
 
-Previously, I had an honor to work with [Prof. Boris Polyak](https://scholar.google.com/citations?user=Zhlib28AAAAJ&hl=en) and [Prof. Peter Richtárik](https://richtarik.org).
+<div style="margin-top: 15px;">
+My research contributions have appeared in leading venues across machine learning and optimization:
+<ul style="list-style-type: none; padding-left: 0;margin-top: 10px;">
+<li style="margin-bottom: 8px;">• Conferences: NeurIPS, ICML, AISTATS.</li>
+<li style="margin-bottom: 8px;">• Journals: SIAM Journal on Control and Optimization, Journal of Machine Learning Research.</li>
+</ul>
+</div>
+
+<div style="margin-top: 15px; margin-bottom: 25px;">
+I am currently supported by the ETH AI Center Doctoral Fellowship. During my master's studies in Germany, I was awarded the DAAD scholarship.
+</div>
 
 [![Google Scholar](/assets/google_scholar_logo.png){:width="30px"}](https://scholar.google.com/citations?user=UCOWHb4AAAAJ&hl=en)
 [![Google Scholar](/assets/ai_center_logo.jpeg){:width="30px" style="margin-left: 10px;"}](https://ai.ethz.ch/about-us/people/doctoral-students.html)
