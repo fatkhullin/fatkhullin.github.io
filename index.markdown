@@ -4,6 +4,7 @@
 
 layout: default
 ---
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 <table>
   <tr>
     <td style="border:none">
@@ -29,7 +30,8 @@ I am a final year PhD student at ETH Zurich and ETH AI Center advised by [Prof. 
 Previously, I had an honor to work with [Prof. Boris Polyak](https://scholar.google.com/citations?user=Zhlib28AAAAJ&hl=en) and [Prof. Peter Richtárik](https://richtarik.org).
 
 [![Google Scholar](/assets/google_scholar_logo.png){:width="30px"}](https://scholar.google.com/citations?user=UCOWHb4AAAAJ&hl=en)
-[![Google Scholar](/assets/ai_center_logo.jpeg){:width="30px"}](https://ai.ethz.ch/about-us/people/doctoral-students.html)
+[![Google Scholar](/assets/ai_center_logo.jpeg){:width="30px" style="margin-left: 10px;"}](https://ai.ethz.ch/about-us/people/doctoral-students.html)
+[<i class="fab fa-linkedin" style="font-size: 30px; color: #0077b5; margin-left: 10px; vertical-align: middle; display: inline-block; margin-top: -25px;"></i>](https://www.linkedin.com/in/ilyas-fatkhullin-bba1ba1bb/)
 
 ---
 # Research Interests {#research}
@@ -40,7 +42,10 @@ My research focuses on developing theoretical foundations and practical algorith
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin-top: 30px;">
 <div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-<h3 style="color: #2c3e50; margin-top: 0;">Large-Scale Optimization</h3>
+<h3 style="color: #2c3e50; margin-top: 0;">
+<i class="fas fa-chart-line" style="margin-right: 10px; color: #3498db;"></i>
+Large-Scale Optimization
+</h3>
 <ul style="list-style-type: none; padding-left: 0;">
 <li style="margin-bottom: 8px;">• Stochastic optimization</li>
 <li style="margin-bottom: 8px;">• Adaptive and parameter-free algorithms</li>
@@ -49,17 +54,22 @@ My research focuses on developing theoretical foundations and practical algorith
 </div>
 
 <div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-<h3 style="color: #2c3e50; margin-top: 0;">Reinforcement Learning and Control</h3>
+<h3 style="color: #2c3e50; margin-top: 0;">
+<i class="fas fa-robot" style="margin-right: 10px; color: #e74c3c;"></i>
+Reinforcement Learning and Control
+</h3>
 <ul style="list-style-type: none; padding-left: 0;">
-<li style="margin-bottom: 8px;">• Policy gradient methods</li>
-<li style="margin-bottom: 8px;">• Sample efficiency</li>
-<li style="margin-bottom: 8px;">• Multi-agent reinforcement learning</li>
+<li style="margin-bottom: 8px;">• Computational and sample efficiency</li>
 <li style="margin-bottom: 8px;">• Safe reinforcement learning</li>
+<li style="margin-bottom: 8px;">• Multi-agent reinforcement learning</li>
 </ul>
 </div>
 
 <div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-<h3 style="color: #2c3e50; margin-top: 0;">Theoretical Foundations</h3>
+<h3 style="color: #2c3e50; margin-top: 0;">
+<i class="fas fa-cube" style="margin-right: 10px; color: #2ecc71;"></i>
+Theoretical Foundations
+</h3>
 <ul style="list-style-type: none; padding-left: 0;">
 <li style="margin-bottom: 8px;">• Non-convex optimization</li>
 <li style="margin-bottom: 8px;">• Hidden convexity and convex reformulations</li>
