@@ -25,7 +25,7 @@ layout: default
 ---
 # About {#about}
 
-I am a final year PhD student at ETH Zurich advised by [Prof. Niao He](https://odi.inf.ethz.ch/niaohe). My research focuses on developing theoretically-grounded algorithms for machine learning and optimization, with particular emphasis on large-scale optimization, reinforcement learning, and theoretical foundations. Previously, I had an honor to work with [Prof. Boris Polyak](https://scholar.google.com/citations?user=Zhlib28AAAAJ&hl=en) on control theory problems and with [Prof. Peter Richtárik](https://richtarik.org) on federated learning, focusing on communication-efficient distributed training.
+I am a final year PhD student at [ETH Zurich](https://ethz.ch/en.html) advised by [Prof. Niao He](https://odi.inf.ethz.ch/niaohe). My research focuses on developing theoretically-grounded algorithms for machine learning and optimization, with particular emphasis on large-scale optimization, reinforcement learning, and theoretical foundations. Previously, I had an honor to work with [Prof. Boris Polyak](https://scholar.google.com/citations?user=Zhlib28AAAAJ&hl=en) on control theory problems and with [Prof. Peter Richtárik](https://richtarik.org) on federated learning, focusing on communication-efficient distributed training.
 
 <div style="margin-top: 15px;">
 My research contributions have appeared in leading venues across machine learning and optimization:
