@@ -29,6 +29,12 @@ permalink: /publications/
 I had the opportunity to contribute to the optimization and machine learning community through the following publications. They are organized by research area:
 </div>
 
+<div style="text-align: center; max-width: 800px; margin: 20px auto; padding: 15px; background-color: #f8f9fa; border-radius: 8px;">
+<span style="color: #2c3e50; font-size: 0.9em;">
+Publications: 3 NeurIPS, 3 ICML, 2 AISTATS, 1 SICON, 1 JMLR, 2 under review
+</span>
+</div>
+
 <div style="margin-top: 30px; max-width: 800px; margin-left: auto; margin-right: auto;">
 <h3 style="color: #2c3e50; margin-bottom: 20px; display: flex; align-items: center;">
 <i class="fas fa-chart-line" style="margin-right: 10px; color: #3498db;"></i>
@@ -37,18 +43,21 @@ Large-Scale Optimization
 
 <ul style="list-style-type: none; padding-left: 0; margin-bottom: 30px;">
 
+<div class="year-divider">2021</div>
 <li style="margin-bottom: 20px;">
-  Peter Richtárik, Igor Sokolov, Ilyas Fatkhullin. <a href="https://arxiv.org/abs/2106.05203">EF21: A New, Simpler, Theoretically Better, and Practically Faster Error Feedback</a>, NeurIPS 2021 (oral).
+  Peter Richtárik, Igor Sokolov, Ilyas Fatkhullin. <a href="https://arxiv.org/abs/2106.05203">EF21: A New, Simpler, Theoretically Better, and Practically Faster Error Feedback</a>, NeurIPS 2021 <span class="highlight-tag">oral</span>.
   <span style="cursor:pointer;" onclick="togglePDF('pub3', '/assets/posters/Poster_EF21.pdf')">&#x25BC; Poster</span>
   <div id="pub3" class="pdf-container" style="display: none; margin-top: 10px;"></div>
 </li>
 
+<div class="year-divider">2022</div>
 <li style="margin-bottom: 20px;">
-  Peter Richtárik, Igor Sokolov, Ilyas Fatkhullin, Elnur Gasanov, Eduard Gorbunov, Zhize Li. <a href="https://arxiv.org/abs/2202.00998">3PC: Three Point Compressors for Communication-Efficient Distributed Training and a Better Theory for Lazy Aggregation</a>, ICML 2022 (spotlight).
+  Peter Richtárik, Igor Sokolov, Ilyas Fatkhullin, Elnur Gasanov, Eduard Gorbunov, Zhize Li. <a href="https://arxiv.org/abs/2202.00998">3PC: Three Point Compressors for Communication-Efficient Distributed Training and a Better Theory for Lazy Aggregation</a>, ICML 2022 <span class="highlight-tag">spotlight</span>.
   <span style="cursor:pointer;" onclick="togglePDF('pub5', '/assets/posters/Poster_3PC.pdf')">&#x25BC; Poster</span>
   <div id="pub5" class="pdf-container" style="display: none; margin-top: 10px;"></div>
 </li>
 
+<div class="year-divider">2023</div>
 <li style="margin-bottom: 20px;">
   Ilyas Fatkhullin, Alexander Tyurin, Peter Richtárik. <a href="https://arxiv.org/abs/2305.15155">Momentum Provably Improves Error Feedback!</a>, NeurIPS 2023.
   <span style="cursor:pointer;" onclick="togglePDF('pub10', '/assets/posters/Poster_EF21_SGDM.pdf')">&#x25BC; Poster</span>
@@ -58,7 +67,6 @@ Large-Scale Optimization
 <li style="margin-bottom: 20px;">
   Junchi Yang, Xiang Li, Ilyas Fatkhullin, Niao He. <a href="https://arxiv.org/abs/2305.12475">Two Sides of One Coin: the Limits of Untuned SGD and the Power of Adaptive Methods</a>, NeurIPS 2023.
 </li>
-
 </ul>
 
 <h3 style="color: #2c3e50; margin-bottom: 20px; display: flex; align-items: center;">
@@ -68,10 +76,12 @@ Reinforcement Learning and Control
 
 <ul style="list-style-type: none; padding-left: 0; margin-bottom: 30px;">
 
+<div class="year-divider">2021</div>
 <li style="margin-bottom: 20px;">
   Ilyas Fatkhullin, Boris Polyak. <a href="https://arxiv.org/abs/2004.09875">Optimizing Static Linear Feedback: Gradient Method</a>, SIAM Journal on Control and Optimization, 2021.
 </li>
 
+<div class="year-divider">2023</div>
 <li style="margin-bottom: 20px;">
   Ilyas Fatkhullin, Anas Barakat, Anastasia Kireeva, Niao He. <a href="https://proceedings.mlr.press/v202/fatkhullin23a.html">Stochastic Policy Gradient Methods: Improved Sample Complexity for Fisher-non-degenerate Policies</a>, ICML 2023.
   <span style="cursor:pointer;" onclick="togglePDF('pub7', '/assets/posters/Poster_SPG_FND.pdf')">&#x25BC; Poster</span>
@@ -85,9 +95,8 @@ Reinforcement Learning and Control
 </li>
 
 <li style="margin-bottom: 20px;">
-  Jiduan Wu, Anas Barakat, Ilyas Fatkhullin, Niao He. <a href="https://arxiv.org/abs/2309.04272">Learning Zero-Sum Linear Quadratic Games with Improved Sample Complexity and Last-Iterate Convergence</a>, preliminary version appeared at CDC 2023. Current version is under review in a journal. 
+  Jiduan Wu, Anas Barakat, Ilyas Fatkhullin, Niao He. <a href="https://arxiv.org/abs/2309.04272">Learning Zero-Sum Linear Quadratic Games with Improved Sample Complexity and Last-Iterate Convergence</a>, <span class="status-tag">preliminary version at CDC 2023, journal version under review</span>
 </li>
-
 </ul>
 
 <h3 style="color: #2c3e50; margin-bottom: 20px; display: flex; align-items: center;">
@@ -97,29 +106,30 @@ Theoretical Foundations
 
 <ul style="list-style-type: none; padding-left: 0; margin-bottom: 30px;">
 
+<div class="year-divider">2022</div>
 <li style="margin-bottom: 20px;">
-  Ilyas Fatkhullin*, Jalal Etesami*, Niao He, Negar Kiyavash. <a href="https://arxiv.org/abs/2210.01748">Sharp Analysis of Stochastic Optimization under Global Kurdyka-Łojasiewicz Inequality</a>, NeurIPS 2022.
+  Ilyas Fatkhullin<span class="equal-contrib">*</span>, Jalal Etesami<span class="equal-contrib">*</span>, Niao He, Negar Kiyavash. <a href="https://arxiv.org/abs/2210.01748">Sharp Analysis of Stochastic Optimization under Global Kurdyka-Łojasiewicz Inequality</a>, NeurIPS 2022.
   <span style="cursor:pointer;" onclick="togglePDF('pub6', '/assets/posters/Poster_KL_SGD.pdf')">&#x25BC; Poster</span>
   <div id="pub6" class="pdf-container" style="display: none; margin-top: 10px;"></div>
 </li>
 
+<div class="year-divider">2023</div>
 <li style="margin-bottom: 20px;">
-  Ilyas Fatkhullin, Niao He, Yifan Hu. <a href="https://arxiv.org/abs/2401.00108">Stochastic Optimization under Hidden Convexity</a>, preliminary version appeared at OptML workshop at NeurIPS 2023. Current version is under review in a journal. 
+  Ilyas Fatkhullin, Niao He, Yifan Hu. <a href="https://arxiv.org/abs/2401.00108">Stochastic Optimization under Hidden Convexity</a>, <span class="status-tag">preliminary version at OptML@NeurIPS 2023, journal version under review</span>
   <span style="cursor:pointer;" onclick="togglePDF('pub12', '/assets/posters/Poster_Hidden_Convexity.pdf')">&#x25BC; Poster</span>
   <div id="pub12" class="pdf-container" style="display: none; margin-top: 10px;"></div>
 </li>
 
+<div class="year-divider">2024-2025</div>
 <li style="margin-bottom: 20px;">
   Ilyas Fatkhullin, Niao He. <a href="https://arxiv.org/abs/2402.17722">Taming Nonconvex Stochastic Mirror Descent with General Bregman Divergence</a>, AISTATS 2024.
   <span style="cursor:pointer;" onclick="togglePDF('pub14', '/assets/posters/Poster_NC_SMD.pdf')">&#x25BC; Poster</span>
   <div id="pub14" class="pdf-container" style="display: none; margin-top: 10px;"></div>
 </li>
 
-
 <li style="margin-bottom: 20px;">
-  Florian Hübler*, Ilyas Fatkhullin*, Niao He. <a href="https://arxiv.org/abs/2410.13849">From Gradient Clipping to Normalization for Heavy Tailed SGD</a>, AISTATS 2025.
+  Florian Hübler<span class="equal-contrib">*</span>, Ilyas Fatkhullin<span class="equal-contrib">*</span>, Niao He. <a href="https://arxiv.org/abs/2410.13849">From Gradient Clipping to Normalization for Heavy Tailed SGD</a>, AISTATS 2025.
 </li>
-
 </ul>
 
 <div style="margin-top: 30px; text-align: center;">
@@ -160,6 +170,31 @@ span[onclick] {
 }
 span[onclick]:hover {
     text-decoration: underline;
+}
+.year-divider {
+    color: #7f8c8d;
+    font-size: 0.9em;
+    margin-top: 25px;
+    margin-bottom: 15px;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 5px;
+}
+.highlight-tag {
+    background-color: #e8f4f8;
+    color: #2980b9;
+    padding: 2px 6px;
+    border-radius: 4px;
+    font-size: 0.85em;
+    margin-left: 5px;
+}
+.status-tag {
+    color: #7f8c8d;
+    font-size: 0.9em;
+    font-style: italic;
+}
+.equal-contrib {
+    color: #7f8c8d;
+    font-size: 0.9em;
 }
 </style>
 
