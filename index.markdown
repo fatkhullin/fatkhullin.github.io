@@ -35,9 +35,9 @@ My research contributions have appeared in leading venues across machine learnin
 </ul>
 </div>
 
-<div style="margin-top: 15px; margin-bottom: 25px;">
-I am currently supported by the ETH AI Center Doctoral Fellowship. During my master's studies in Germany, I was awarded the DAAD scholarship.
-</div>
+
+I am currently supported by the [ETH AI Center Doctoral Fellowship](https://ai.ethz.ch/education/phd-and-postdoc-programs/phd-fellowships.html). Previously, I received [DAAD Scholarship](https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=50026200) from German Academic Exchange Service for Master studies in Germany.
+
 
 [![Google Scholar](/assets/google_scholar_logo.png){:width="30px"}](https://scholar.google.com/citations?user=UCOWHb4AAAAJ&hl=en)
 [![Google Scholar](/assets/ai_center_logo.jpeg){:width="30px" style="margin-left: 10px;"}](https://ai.ethz.ch/about-us/people/doctoral-students.html)
