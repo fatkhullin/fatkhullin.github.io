@@ -100,7 +100,7 @@ Reinforcement Learning and Control
 
 <div class="year-divider">2024-2025</div>
 <li style="margin-bottom: 20px;">
-  Rustem Islamov, Yarden As, Ilyas Fatkhullin. <a href="https://arxiv.org/abs/2402.17722">Safe-EF: Error Feedback for Nonsmooth Constrained Optimization</a>, ICML 2025.
+  Rustem Islamov, Yarden As, Ilyas Fatkhullin. <a href="https://www.arxiv.org/abs/2505.06053">Safe-EF: Error Feedback for Nonsmooth Constrained Optimization</a>, ICML 2025.
 </li>
 </ul>
 
