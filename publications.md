@@ -31,7 +31,7 @@ I had the opportunity to contribute to the optimization and machine learning com
 
 <div style="text-align: center; max-width: 800px; margin: 20px auto; padding: 15px; background-color: #f8f9fa; border-radius: 8px;">
 <span style="color: #2c3e50; font-size: 0.9em;">
-Publications: 3 NeurIPS, 3 ICML, 2 AISTATS, 1 SICON, 1 JMLR, 2 under review
+Publications: 3 NeurIPS, 4 ICML, 2 AISTATS, 1 SICON, 1 JMLR, 1 under review
 </span>
 </div>
 
@@ -96,6 +96,11 @@ Reinforcement Learning and Control
 
 <li style="margin-bottom: 20px;">
   Jiduan Wu, Anas Barakat, Ilyas Fatkhullin, Niao He. <a href="https://arxiv.org/abs/2309.04272">Learning Zero-Sum Linear Quadratic Games with Improved Sample Complexity and Last-Iterate Convergence</a>, <span class="status-tag">preliminary version at CDC 2023, journal version under review</span>
+</li>
+
+<div class="year-divider">2024-2025</div>
+<li style="margin-bottom: 20px;">
+  Rustem Islamov, Yarden As, Ilyas Fatkhullin. <a href="https://arxiv.org/abs/2402.17722">Safe-EF: Error Feedback for Nonsmooth Constrained Optimization</a>, ICML 2025.
 </li>
 </ul>
 
