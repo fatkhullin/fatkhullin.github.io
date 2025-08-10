@@ -31,7 +31,7 @@ I had the opportunity to contribute to the optimization and machine learning com
 
 <div style="text-align: center; max-width: 800px; margin: 20px auto; padding: 15px; background-color: #f8f9fa; border-radius: 8px;">
 <span style="color: #2c3e50; font-size: 0.9em;">
-Publications: 3 NeurIPS, 4 ICML, 2 AISTATS, 2 SICON, 1 JMLR, 1 under review
+Publications: 3 NeurIPS, 4 ICML, 2 AISTATS, 2 SICON, 1 JMLR, 1 SIOPT
 </span>
 </div>
 
@@ -120,7 +120,7 @@ Theoretical Foundations
 
 <div class="year-divider">2023</div>
 <li style="margin-bottom: 20px;">
-  Ilyas Fatkhullin, Niao He, Yifan Hu. <a href="https://arxiv.org/abs/2401.00108">Stochastic Optimization under Hidden Convexity</a>, <span class="status-tag">preliminary version at OptML@NeurIPS 2023, journal version under review</span>
+  Ilyas Fatkhullin, Niao He, Yifan Hu. <a href="https://arxiv.org/abs/2401.00108">Stochastic Optimization under Hidden Convexity</a>, <span class="status-tag">Accepted for publication at SIAM Journal on Optimization, 2025. Preliminary version at OptML@NeurIPS 2023.</span>
   <span style="cursor:pointer;" onclick="togglePDF('pub12', '/assets/posters/Poster_Hidden_Convexity.pdf')">&#x25BC; Poster</span>
   <div id="pub12" class="pdf-container" style="display: none; margin-top: 10px;"></div>
 </li>
