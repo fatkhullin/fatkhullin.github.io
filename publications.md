@@ -31,7 +31,7 @@ I had the opportunity to contribute to the optimization and machine learning com
 
 <div style="text-align: center; max-width: 800px; margin: 20px auto; padding: 15px; background-color: #f8f9fa; border-radius: 8px;">
 <span style="color: #2c3e50; font-size: 0.9em;">
-Publications: 3 NeurIPS, 4 ICML, 2 AISTATS, 2 SICON, 1 JMLR, 1 SIOPT
+Publications: 4 NeurIPS, 4 ICML, 2 AISTATS, 2 SICON, 1 JMLR, 1 SIOPT
 </span>
 </div>
 

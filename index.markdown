@@ -31,7 +31,7 @@ I am a final year PhD student at [ETH Zurich](https://ethz.ch/en.html) advised b
 My research contributions have appeared in leading venues across machine learning and optimization:
 <ul style="list-style-type: none; padding-left: 0;margin-top: 10px;">
 <li style="margin-bottom: 8px;">• Conferences: NeurIPS, ICML, AISTATS.</li>
-<li style="margin-bottom: 8px;">• Journals: SIAM Journal on Control and Optimization, Journal of Machine Learning Research.</li>
+<li style="margin-bottom: 8px;">• Journals: SIAM Journal on Control and Optimization, SIAM Journal on Optimization, Journal of Machine Learning Research.</li>
 </ul>
 </div>
 
