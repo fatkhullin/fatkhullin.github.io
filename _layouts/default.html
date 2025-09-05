@@ -7,6 +7,7 @@
 
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
@@ -34,7 +35,28 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
         
-        <p><a href="/assets/CV_Ilyas_Fatkhullin.pdf" target="_blank" style="color: #0366d6; text-decoration: none; font-weight: 500;">📄 Download CV</a></p>
+        <div style="text-align: left; margin: 20px 0;">
+          <div style="margin-bottom: 15px;">
+            <a href="/assets/CV_Ilyas_Fatkhullin.pdf" target="_blank" style="color: #0366d6; text-decoration: none; font-weight: 500; display: inline-block;">
+              <img src="/assets/CV_icon.png" alt="CV" style="width: 40px; vertical-align: middle; margin-right: 8px;">Curriculum Vitae
+            </a>
+          </div>
+          <div style="margin-bottom: 15px;">
+            <a href="https://scholar.google.com/citations?user=UCOWHb4AAAAJ&hl=en" target="_blank" style="color: #0366d6; text-decoration: none; font-weight: 500; display: inline-block;">
+              <img src="/assets/google_scholar_logo.png" alt="Google Scholar" style="width: 40px; vertical-align: middle; margin-right: 8px;">Google Scholar
+            </a>
+          </div>
+          <div style="margin-bottom: 15px;">
+            <a href="https://ai.ethz.ch/about-us/people/doctoral-students.html" target="_blank" style="color: #0366d6; text-decoration: none; font-weight: 500; display: inline-block;">
+              <img src="/assets/ai_center_logo.jpeg" alt="ETH AI Center" style="width: 40px; vertical-align: middle; margin-right: 8px;">ETH AI Center
+            </a>
+          </div>
+          <div>
+            <a href="https://www.linkedin.com/in/ilyas-fatkhullin-bba1ba1bb/" target="_blank" style="color: #0366d6; text-decoration: none; font-weight: 500; display: inline-block;">
+              <i class="fab fa-linkedin" style="font-size: 40px; color: #0077b5; vertical-align: middle; margin-right: 8px;"></i>LinkedIn
+            </a>
+          </div>
+        </div>
 
         {% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>

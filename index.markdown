@@ -39,10 +39,6 @@ My research contributions have appeared in leading venues across machine learnin
 I am currently supported by the [ETH AI Center Doctoral Fellowship](https://ai.ethz.ch/education/phd-and-postdoc-programs/phd-fellowships.html). Previously, I received [DAAD Scholarship](https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=50026200) from German Academic Exchange Service for Master studies in Germany.
 
 
-[![Google Scholar](/assets/google_scholar_logo.png){:width="30px"}](https://scholar.google.com/citations?user=UCOWHb4AAAAJ&hl=en)
-[![Google Scholar](/assets/ai_center_logo.jpeg){:width="30px" style="margin-left: 10px;"}](https://ai.ethz.ch/about-us/people/doctoral-students.html)
-[<i class="fab fa-linkedin" style="font-size: 30px; color: #0077b5; margin-left: 10px; vertical-align: middle; display: inline-block; margin-top: -25px;"></i>](https://www.linkedin.com/in/ilyas-fatkhullin-bba1ba1bb/)
-
 ---
 # Research Interests {#research}
 
