@@ -1,29 +1,8 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-# /assets/posters/Poster_NC_SMD.pdf
-
-layout: default
+layout: publications
 title: Publications
 permalink: /publications/
 ---
-
-<table>
-  <tr>
-    <td style="border:none">
-      <a href="/"><h3>About</h3></a>
-    </td>
-    <td style="border:none">
-      <a href="/#research"><h3>Research</h3></a>
-    </td>
-    <td style="border:none">
-      <a href="#publ"><h3>Publications</h3></a>
-    </td>
-    <td style="border:none">
-      <a href="/contact"><h3>Contact</h3></a>
-    </td>
-  </tr>
-</table>
 
 <div style="text-align: justify; max-width: 800px; margin: 0 auto;">
 I had the opportunity to contribute to the optimization and machine learning community through the following publications. They are organized by research area:
@@ -31,7 +10,7 @@ I had the opportunity to contribute to the optimization and machine learning com
 
 <div style="text-align: center; max-width: 800px; margin: 20px auto; padding: 15px; background-color: #f8f9fa; border-radius: 8px;">
 <span style="color: #2c3e50; font-size: 0.9em;">
-Publications: 4 NeurIPS, 4 ICML, 2 AISTATS, 2 SICON, 1 JMLR, 1 SIOPT
+Publications: 6 NeurIPS, 4 ICML, 2 AISTATS, 2 SICON, 1 JMLR, 1 SIOPT
 </span>
 </div>
 
