@@ -1,0 +1,4 @@
+# Re-include asset images that are ignored by the global ~/.gitignore_global
+!assets/**/*.png
+!assets/**/*.jpg
+!assets/**/*.jpeg
