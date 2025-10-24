@@ -84,8 +84,9 @@ title: Theoretical Foundations - Non-convex Theory
 
     <p><strong>Key Contributions</strong>:</p>
     <ul style="margin-top:6px;">
-      <li>Analysis of optimization algorithms under hidden convexity (<a href="https://arxiv.org/abs/2401.00108">SIAM J. Optim., 2025</a>); helps to resolve open questions in reinforcement learning and variationsl inference.
+      <li>Analysis of optimization algorithms under hidden convexity (<a href="https://arxiv.org/abs/2401.00108">SIAM J. Optim., 2025</a>); helps to resolve open questions in reinforcement learning and variational inference.
       </li>
+      <li>Global convergence guarantees for natural gradient variational inference in non-conjugate models, using non-Euclidean projections and uncovering the hidden convexity in the variational loss (<a href="https://arxiv.org/abs/2510.19163">NeurIPS, 2025</a>).</li>
       <li>Using proporties of hidden convex structure for designing faster policy gradient methods in general utility RL (<a href="https://proceedings.mlr.press/v202/barakat23a.html">ICML, 2023</a>).
       </li>
       <li>Discovering new landscape structures in zero-sum game settings, which allow us improve complexities by orders of magnitude (<a href="https://epubs.siam.org/doi/10.1137/23M1626104">SIAM J. Contr. Optim., 2025</a>).</li>
@@ -100,9 +101,12 @@ title: Theoretical Foundations - Non-convex Theory
 
 - *Stochastic Optimization under Hidden Convexity.* with N. He, Y. Hu. [SIAM Journal on Optimization, 2025](https://arxiv.org/abs/2401.00108).
 
+- *Natural Gradient VI: Guarantees for Non-Conjugate Models.* with F. Sun, N. He. [NeurIPS, 2025](https://arxiv.org/abs/2510.19163).
+
 <!-- - *Global Solutions to Non-Convex Functional Constrained Problems via Hidden Convexity.* (working paper) with N. He, G. Lan, F. Wolf. [Oral Presentation at NeurIPS Workshop COML’25](https://constrained-opt-ml.github.io/papers/). 
 -->
-- *Learning Zero-Sum Linear Quadratic Games with Improved Sample Complexity and Last-Iterate Convergence.* with J. Wu, A. Barakat, N. He. [SIAM Journal on Control and Optimization, 2025](https://epubs.siam.org/doi/10.1137/23M1626104).
+
+- *Learning Zero-Sum Linear Quadratic Games with Improved Sample Complexity and Last-Iterate Convergence.* with J. Wu, A. Barakat, N. He. [SIAM Journal on Control and Optimization, 2025](https://epubs.siam.org/doi/10.1137/23M1626104). Preliminary version in [Conference on Decision and Control, 2023](https://ieeexplore.ieee.org/abstract/document/10384025).
 
 - *Reinforcement Learning with General Utilities: Simpler Variance Reduction and Large State-Action Space.* with A. Barakat, N. He. [ICML, 2023](https://proceedings.mlr.press/v202/barakat23a.html).
 
