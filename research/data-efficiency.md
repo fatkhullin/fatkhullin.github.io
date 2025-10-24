@@ -43,7 +43,7 @@ title: Data Efficiency - Robust Algorithms
 
 ## Selected Publications
 
-- *Can SGD Handle Heavy-Tailed Noise?* with F. Hübler, G. Lan. [arXiv:2508.04860, 2025](https://arxiv.org/abs/2508.04860).
+- *Can SGD Handle Heavy-Tailed Noise?* with F. Hübler, G. Lan. [NeurIPS OptML Workshop, 2025](https://arxiv.org/abs/2508.04860).
 
 - *From Gradient Clipping to Normalization for Heavy-Tailed SGD.* with F. Hübler, N. He. [AISTATS, 2025](https://openreview.net/forum?id=nuG0FYyWRT).
 

@@ -84,12 +84,12 @@ title: Theoretical Foundations - Non-convex Theory
 
     <p><strong>Key Contributions</strong>:</p>
     <ul style="margin-top:6px;">
-      <li>Analysis of optimization algorithms under hidden convexity <a href="https://arxiv.org/abs/2401.00108">SIAM J. Optim., 2025</a>; helps to resolve open questions in reinforcement learning and variationsl inference.
+      <li>Analysis of optimization algorithms under hidden convexity (<a href="https://arxiv.org/abs/2401.00108">SIAM J. Optim., 2025</a>); helps to resolve open questions in reinforcement learning and variationsl inference.
       </li>
-      <li>Using proporties of hidden convex structure for designing faster policy gradient methods in general utility RL. <a href="https://proceedings.mlr.press/v202/barakat23a.html">ICML, 2023</a>.
+      <li>Using proporties of hidden convex structure for designing faster policy gradient methods in general utility RL (<a href="https://proceedings.mlr.press/v202/barakat23a.html">ICML, 2023</a>).
       </li>
-      <li>Discovering new landscape structures in zero-sum game settings, which allow us improve complexities by orders of magnitude. <a href="https://epubs.siam.org/doi/10.1137/23M1626104">SIAM J. Contr. Optim., 2025</a>.</li>
-      <li>Analyzing the fundamental structures of a linear quadratic regulator with output control. Convergence of carefully designed gradient method. <a href="https://epubs.siam.org/doi/10.1137/20M1329858">SIAM J. Contr. Optim., 2021</a>. </li>
+      <li>Discovering new landscape structures in zero-sum game settings, which allow us improve complexities by orders of magnitude (<a href="https://epubs.siam.org/doi/10.1137/23M1626104">SIAM J. Contr. Optim., 2025</a>).</li>
+      <li>Analyzing the fundamental structures of a linear quadratic regulator with output control. Convergence of carefully designed gradient method (<a href="https://epubs.siam.org/doi/10.1137/20M1329858">SIAM J. Contr. Optim., 2021</a>). </li>
     </ul>
 
     <p><strong>Impact</strong>: This line of work has led to substantial understanding of efficiency of policy gradient methods and provides a principled path for understanding non-convex optimization landscapes in safety-critical applications.</p>
@@ -98,7 +98,7 @@ title: Theoretical Foundations - Non-convex Theory
 
 ## Selected Publications
 
-- *Stochastic Optimization under Hidden Convexity.* with N. He, Y. Hu. [SIAM Journal on Optimization (to appear), 2025](https://arxiv.org/abs/2401.00108).
+- *Stochastic Optimization under Hidden Convexity.* with N. He, Y. Hu. [SIAM Journal on Optimization, 2025](https://arxiv.org/abs/2401.00108).
 
 <!-- - *Global Solutions to Non-Convex Functional Constrained Problems via Hidden Convexity.* (working paper) with N. He, G. Lan, F. Wolf. [Oral Presentation at NeurIPS Workshop COML’25](https://constrained-opt-ml.github.io/papers/). 
 -->
