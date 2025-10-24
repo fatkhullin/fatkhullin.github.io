@@ -24,7 +24,7 @@ title: Data Efficiency - Robust Algorithms
         (<a href="https://proceedings.mlr.press/v202/fatkhullin23a.html">ICML 2023a</a>;
          <a href="https://proceedings.mlr.press/v202/barakat23a.html">ICML 2023b</a>).
       </li>
-      <li>Hessian clipping: optimal second-order optimization under heavy-tailed noise. (NeurIPS 2025, to appear).</li>
+      <li>Hessian clipping: optimal second-order optimization under heavy-tailed noise (<a href="https://arxiv.org/abs/2510.10690">NeurIPS 2025</a>).</li>
     </ul>
 
     <p><strong>Impact</strong>: In practice, our proposed methods widen the range of stable step-sizes by a factor of three compared to standard SGD in challenging benchmarks like the Humanoid task, demonstrating both theoretical rigor and practical effectiveness.</p>
@@ -51,7 +51,7 @@ title: Data Efficiency - Robust Algorithms
 
 - *Reinforcement Learning with General Utilities: Simpler Variance Reduction and Large State-Action Space.* with A. Barakat, N. He. [ICML, 2023](https://proceedings.mlr.press/v202/barakat23a.html).
 
-- *Second-order Optimization under Heavy-Tailed Noise: Hessian Clipping and Sample Complexity Limits.* with A. Sadiev, P. Richtárik. NeurIPS, 2025.
+- *Second-order Optimization under Heavy-Tailed Noise: Hessian Clipping and Sample Complexity Limits.* with A. Sadiev, P. Richtárik. [NeurIPS, 2025](https://arxiv.org/abs/2510.10690).
 
 ## Research Impact
 
