@@ -38,7 +38,7 @@ My work centers on three interconnected pillars that address fundamental challen
 
 **⚡ Data Efficiency**: I design robust algorithms that maintain performance under challenging statistical conditions, such as heavy-tailed noise and limited data scenarios, with particular focus on policy gradient methods in reinforcement learning.
 
-**🚀 Scalability**: I create communication-efficient distributed training algorithms that enable large-scale machine learning while preserving theoretical guarantees, including the widely-cited EF21 algorithm.
+**🚀 Scalability**: I create communication-efficient distributed training algorithms that enable large-scale machine learning while preserving theoretical guarantees, including the popular EF21 algorithm.
 
 <div style="text-align: center; margin: 40px 0;">
   <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
