@@ -44,7 +44,7 @@ title: Scalable Systems - Distributed Training
 
 ## Selected Publications
 
-- *EF21: A New, Simpler, Theoretically Better, and Practically Faster Error Feedback.* with P. Richtárik, I. Sokolov. [NeurIPS (Oral Presentation, top 1%), 2021](https://proceedings.neurips.cc/paper/2021/hash/231141b34c82aa95e48810a9d1b33a79-Abstract.html).
+- *EF21: A New, Simpler, Theoretically Better, and Practically Faster Error Feedback.* with P. Richtárik, I. Sokolov. [NeurIPS (Oral), 2021](https://proceedings.neurips.cc/paper/2021/hash/231141b34c82aa95e48810a9d1b33a79-Abstract.html).
 
 - *EF21 with Bells & Whistles: Six Algorithmic Extensions of Modern Error Feedback.* with I. Sokolov, E. Gorbunov, Z. Li, P. Richtárik. [Journal of Machine Learning Research, 2025](https://jmlr.org/papers/v26/24-0059.html).
 

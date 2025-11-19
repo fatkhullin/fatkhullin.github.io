@@ -86,7 +86,7 @@ title: Theoretical Foundations - Non-convex Theory
     <ul style="margin-top:6px;">
       <li>Analysis of optimization algorithms under hidden convexity (<a href="https://arxiv.org/abs/2401.00108">SIAM J. Optim., 2025</a>); helps to resolve open questions in reinforcement learning and variational inference.
       </li>
-      <li>Tackling scenarios with non-convex functional constraints under hidden convexity (<a href="https://arxiv.org/abs/2511.10626">NeurIPS COML Workshop, 2025</a>); implies the first global solution method for safe convex reinforcement learning and other applications.
+      <li>Tackling scenarios with non-convex functional constraints under hidden convexity (<a href="https://arxiv.org/abs/2511.10626">NeurIPS COML Workshop, 2025 (Oral)</a>); implies the first global solution method for safe convex reinforcement learning and other applications.
       </li>
       <li>Global convergence guarantees for natural gradient variational inference in non-conjugate models, using non-Euclidean projections and uncovering the hidden convexity in the variational loss (<a href="https://arxiv.org/abs/2510.19163">NeurIPS, 2025</a>).</li>
       <li>Using proporties of hidden convex structure for designing faster policy gradient methods in general utility RL (<a href="https://proceedings.mlr.press/v202/barakat23a.html">ICML, 2023</a>).
@@ -105,7 +105,7 @@ title: Theoretical Foundations - Non-convex Theory
 
 - *Natural Gradient VI: Guarantees for Non-Conjugate Models.* with F. Sun, N. He. [NeurIPS, 2025](https://arxiv.org/abs/2510.19163).
 
-- *Global Solutions to Non-Convex Functional Constrained Problems with Hidden Convexity.* with N. He, G. Lan, F. Wolf. [Oral Presentation at NeurIPS Workshop COML’25](https://constrained-opt-ml.github.io/papers/). Preprint: [arXiv](https://arxiv.org/abs/2511.10626).
+- *Global Solutions to Non-Convex Functional Constrained Problems with Hidden Convexity.* with N. He, G. Lan, F. Wolf. [NeurIPS Workshop COML’25 (Oral)](https://constrained-opt-ml.github.io/papers/). Preprint: [arXiv](https://arxiv.org/abs/2511.10626).
 
 - *Learning Zero-Sum Linear Quadratic Games with Improved Sample Complexity and Last-Iterate Convergence.* with J. Wu, A. Barakat, N. He. [SIAM Journal on Control and Optimization, 2025](https://epubs.siam.org/doi/10.1137/23M1626104). Preliminary version in [Conference on Decision and Control, 2023](https://ieeexplore.ieee.org/abstract/document/10384025).
 

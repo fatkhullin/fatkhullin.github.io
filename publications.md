@@ -74,7 +74,7 @@ Reinforcement Learning and Control
 </li>
 
 <li style="margin-bottom: 20px;">
-  Jiduan Wu, Anas Barakat, Ilyas Fatkhullin, Niao He. <a href="https://arxiv.org/abs/2309.04272">Learning Zero-Sum Linear Quadratic Games with Improved Sample Complexity and Last-Iterate Convergence</a>, Accepted for publication at SIAM Journal on Control and Optimization, 2025. Preliminary version appeared at CDC 2023.
+  Jiduan Wu, Anas Barakat, Ilyas Fatkhullin, Niao He. <a href="https://doi.org/10.1137/23M1626104">Learning Zero-Sum Linear Quadratic Games with Improved Sample Complexity and Last-Iterate Convergence</a>, SIAM Journal on Control and Optimization, 2025. Preliminary version appeared at CDC 2023.
 </li>
 
 <div class="year-divider">2024-2025</div>
@@ -85,7 +85,7 @@ Reinforcement Learning and Control
 
 <h3 style="color: #2c3e50; margin-bottom: 20px; display: flex; align-items: center;">
 <i class="fas fa-cube" style="margin-right: 10px; color: #2ecc71;"></i>
-Theoretical Foundations
+Theoretical Foundations of Non-convex Optimization
 </h3>
 
 <ul style="list-style-type: none; padding-left: 0; margin-bottom: 30px;">
@@ -99,7 +99,7 @@ Theoretical Foundations
 
 <div class="year-divider">2023</div>
 <li style="margin-bottom: 20px;">
-  Ilyas Fatkhullin, Niao He, Yifan Hu. <a href="https://arxiv.org/abs/2401.00108">Stochastic Optimization under Hidden Convexity</a>, <span class="status-tag">Accepted for publication at SIAM Journal on Optimization, 2025. Preliminary version at OptML@NeurIPS 2023.</span>
+  Ilyas Fatkhullin, Niao He, Yifan Hu. <a href="https://doi.org/10.1137/22M1708903">Stochastic Optimization under Hidden Convexity</a>, <span class="status-tag">SIAM Journal on Optimization, 2025. Preliminary version at OptML@NeurIPS 2023.</span>
   <span style="cursor:pointer;" onclick="togglePDF('pub12', '/assets/posters/Poster_Hidden_Convexity.pdf')">&#x25BC; Poster</span>
   <div id="pub12" class="pdf-container" style="display: none; margin-top: 10px;"></div>
 </li>
@@ -109,6 +109,10 @@ Theoretical Foundations
   Ilyas Fatkhullin, Niao He. <a href="https://arxiv.org/abs/2402.17722">Taming Nonconvex Stochastic Mirror Descent with General Bregman Divergence</a>, AISTATS 2024.
   <span style="cursor:pointer;" onclick="togglePDF('pub14', '/assets/posters/Poster_NC_SMD.pdf')">&#x25BC; Poster</span>
   <div id="pub14" class="pdf-container" style="display: none; margin-top: 10px;"></div>
+</li>
+
+<li style="margin-bottom: 20px;">
+  F. Sun, Ilyas Fatkhullin, Niao He. <a href="https://arxiv.org/abs/2510.19163">Natural Gradient VI: Guarantees for Non-Conjugate Models</a>, NeurIPS 2025.
 </li>
 
 <li style="margin-bottom: 20px;">

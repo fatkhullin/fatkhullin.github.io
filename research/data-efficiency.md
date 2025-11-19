@@ -15,7 +15,7 @@ title: Data Efficiency - Robust Algorithms
     <p><strong>Key Contributions</strong>:</p>
     <ul style="margin-top:6px;">
       <li>Optimal sample efficiency guarantees for SGD under infinite variance noise
-        (<a href="https://arxiv.org/abs/2508.04860">NeurIPS OptML Workshop, 2025</a>).
+        (<a href="https://arxiv.org/abs/2508.04860">NeurIPS OptML Workshop, 2025 (Oral)</a>).
       </li>
       <li>Normalized SGD methods with high-probability fast convergence under heavy-tailed noise
         (<a href="https://openreview.net/forum?id=nuG0FYyWRT">AISTATS 2025</a>).
@@ -43,7 +43,7 @@ title: Data Efficiency - Robust Algorithms
 
 ## Selected Publications
 
-- *Can SGD Handle Heavy-Tailed Noise?* with F. Hübler, G. Lan. [NeurIPS OptML Workshop, 2025](https://arxiv.org/abs/2508.04860).
+- *Can SGD Handle Heavy-Tailed Noise?* with F. Hübler, G. Lan. [NeurIPS OptML Workshop, 2025 (Oral)](https://arxiv.org/abs/2508.04860).
 
 - *From Gradient Clipping to Normalization for Heavy-Tailed SGD.* with F. Hübler, N. He. [AISTATS, 2025](https://openreview.net/forum?id=nuG0FYyWRT).
 
