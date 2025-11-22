@@ -34,6 +34,10 @@ I am currently supported by the [ETH AI Center Doctoral Fellowship](https://ai.e
 
 My work centers on three interconnected pillars that address fundamental challenges in modern machine learning:
 
+<div style="text-align: center; margin: 30px 0;">
+  <a href="/research" style="text-decoration: none; color: #2c3e50; font-weight: 600; font-size: 16px; padding: 10px 25px; border-radius: 20px; background: white; box-shadow: 0 2px 6px rgba(0,0,0,0.08); transition: all 0.3s ease; border: 2px solid #e1e4e8; display: inline-block;" onmouseover="this.style.background='#e3f2fd'; this.style.borderColor='#1565c0'; this.style.transform='translateY(-2px)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.15)'" onmouseout="this.style.background='white'; this.style.borderColor='#e1e4e8'; this.style.transform='translateY(0)'; this.style.boxShadow='0 2px 6px rgba(0,0,0,0.08)'">Explore Research Details →</a>
+</div>
+
 **🔬 Non-convex Theory**: I develop rigorous mathematical frameworks to understand complex optimization landscapes, including hidden convexity structures that enable global solutions to seemingly intractable non-convex problems.
 
 **⚡ Data Efficiency and Robustness**: I design robust algorithms that maintain performance under challenging statistical conditions, such as heavy-tailed noise and limited data scenarios, with particular focus on policy gradient methods in reinforcement learning.
@@ -42,7 +46,6 @@ My work centers on three interconnected pillars that address fundamental challen
 
 <div style="text-align: center; margin: 40px 0;">
   <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-    <a href="/research" style="text-decoration: none; color: #2c3e50; font-weight: 600; font-size: 16px; padding: 10px 25px; border-radius: 20px; background: white; box-shadow: 0 2px 6px rgba(0,0,0,0.08); transition: all 0.3s ease; border: 2px solid #e1e4e8; display: inline-block;" onmouseover="this.style.background='#e3f2fd'; this.style.borderColor='#1565c0'; this.style.transform='translateY(-2px)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.15)'" onmouseout="this.style.background='white'; this.style.borderColor='#e1e4e8'; this.style.transform='translateY(0)'; this.style.boxShadow='0 2px 6px rgba(0,0,0,0.08)'">Explore Research Details →</a>
     <a href="/publications" style="text-decoration: none; color: #2c3e50; font-weight: 600; font-size: 16px; padding: 10px 25px; border-radius: 20px; background: white; box-shadow: 0 2px 6px rgba(0,0,0,0.08); transition: all 0.3s ease; border: 2px solid #e1e4e8; display: inline-block;" onmouseover="this.style.background='#fff8e1'; this.style.borderColor='#e65100'; this.style.transform='translateY(-2px)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.15)'" onmouseout="this.style.background='white'; this.style.borderColor='#e1e4e8'; this.style.transform='translateY(0)'; this.style.boxShadow='0 2px 6px rgba(0,0,0,0.08)'">View All Publications →</a>
   </div>
 </div>
