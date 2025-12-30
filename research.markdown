@@ -104,7 +104,7 @@ My research develops the theoretical and algorithmic foundations of optimization
 <!-- Non-convex Theory Card -->
 <a href="/research/theoretical-foundations" style="text-decoration: none; color: inherit; flex: 0 1 300px; min-width: 0;">
 <div class="research-card" style="background: white; padding: 20px; border-radius: 15px; box-shadow: 0 6px 12px rgba(0,0,0,0.1); width: 100%; text-align: center; transition: transform 0.3s ease, box-shadow 0.3s ease; height: 100%; display: flex; flex-direction: column;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.15)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 6px 12px rgba(0,0,0,0.1)'">
-  <img src="/assets/landscape.png" alt="Hidden Convexity" style="width: 80%; height: 200px; object-fit: contain; margin: 0 auto 15px auto; flex-shrink: 0; display: block;">
+  <img src="/assets/nonconvex.png" alt="Hidden Convexity" style="width: 80%; height: 200px; object-fit: contain; margin: 0 auto 15px auto; flex-shrink: 0; display: block;">
   <h3 style="color: #2c3e50; margin: 15px 0 10px 0; flex-shrink: 0;">🔬 Non-convex Theory</h3>
   <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center; margin: 15px 0; flex-shrink: 0;">
     <span style="background: #e8f5e8; color: #2e7d32; padding: 4px 8px; border-radius: 12px; font-size: 0.8em;">Hidden Convexity</span>
