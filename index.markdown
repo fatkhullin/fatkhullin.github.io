@@ -63,3 +63,13 @@ div[style*="background-color: #f8f9fa"]:hover {
   box-shadow: 0 12px 20px rgba(0,0,0,0.2);
 }
 </style>
+
+---
+## News {#news}
+- **December 2025** – Presented "Global Solutions to Non-Convex Functional Constrained Problems with Hidden Convexity." at NeurIPS Workshop on Constrained Optimization for Machine Learning. 
+_Oral Presentation Award for the best fundamental (theoretical or algorithmic) contribution._
+- **October 2025** – Started an Applied Scientist internship with Amazon’s Forecasting & Optimization team in Luxembourg, focusing on large-scale capacity management problems across the delivery network.
+- **August 2025** – Delivered “Can SGD Handle Heavy-Tailed Noise?” at the H. Milton Stewart School of Industrial and Systems Engineering (Georgia Tech) student seminar in Atlanta.
+- **July 2025** – Attended the International Conference on Continuous Optimization ICCOPT 2025 at the University of Southern California in Los Angeles, USA, and presented “Taming Nonconvex Stochastic Mirror Descent with General Bregman Divergence.”
+- **July 2025** – Attended the International Conference on Stochastic Programming (ICSP) 2025 in Paris, France, and presented “Safe-EF: Error Feedback for Nonsmooth Constrained Optimization (with Applications to Humanoid Fleet Training).”
+- **March 2025** – Research visit at Georgia Tech’s H. Milton Stewart School of ISyE with Prof. Guanghui (George) Lan.
