@@ -23,7 +23,7 @@ layout: default
 I am a final-year PhD student at [ETH Zurich](https://ethz.ch/en.html), advised by [Prof. Niao He](https://odi.inf.ethz.ch/niaohe). My research focuses on developing theoretically grounded algorithms for machine learning and optimization, with an emphasis on data efficiency, scalability, and safety. Previously, I had an honor to work with [Prof. Boris Polyak](https://scholar.google.com/citations?user=Zhlib28AAAAJ&hl=en) on control theory problems and with [Prof. Peter Richtárik](https://richtarik.org) on federated learning, focusing on communication-efficient distributed training.
 
 
-My research contributions have appeared in leading machine learning venues including NeurIPS, ICML, AISTATS, Journal of Machine Learning Research, as well as top-tier journals such as SIAM Journal on Optimization, SIAM Journal on Control and Optimization. 
+My research contributions have appeared in leading machine learning venues including NeurIPS, ICML, AISTATS, Journal of Machine Learning Research, as well as SIAM Journal on Optimization, SIAM Journal on Control and Optimization. 
 
 I am currently supported by the [ETH AI Center Doctoral Fellowship](https://ai.ethz.ch/education/phd-and-postdoc-programs/phd-fellowships.html) and previously received a [DAAD Scholarship](https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=50026200) for Master studies in Germany.
 
@@ -38,9 +38,9 @@ My work centers on three interconnected pillars that address fundamental challen
   <a href="/research" style="text-decoration: none; color: #2c3e50; font-weight: 600; font-size: 16px; padding: 10px 25px; border-radius: 20px; background: white; box-shadow: 0 2px 6px rgba(0,0,0,0.08); transition: all 0.3s ease; border: 2px solid #e1e4e8; display: inline-block;" onmouseover="this.style.background='#e3f2fd'; this.style.borderColor='#1565c0'; this.style.transform='translateY(-2px)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.15)'" onmouseout="this.style.background='white'; this.style.borderColor='#e1e4e8'; this.style.transform='translateY(0)'; this.style.boxShadow='0 2px 6px rgba(0,0,0,0.08)'">Explore Research Details →</a>
 </div>
 
-**🔬 Non-convex Theory**: I develop rigorous mathematical frameworks to understand complex optimization landscapes, including hidden convexity structures that enable global solutions to seemingly intractable non-convex problems.
+**🔬 Non-convex Optimization**: I develop rigorous mathematical frameworks to understand complex optimization landscapes, including hidden convexity structures that enable global solutions to seemingly intractable non-convex problems.
 
-**⚡ Data Efficiency and Robustness**: I design robust algorithms that maintain performance under challenging statistical conditions, such as heavy-tailed noise and limited data scenarios, with particular focus on policy gradient methods in reinforcement learning.
+**⚡ Data Efficiency and Robustness**: I design robust algorithms that maintain performance under challenging statistical conditions, such as heavy-tailed noise and limited data scenarios, with particular relevance for policy gradient methods in reinforcement learning.
 
 **🚀 Scalable Systems**: I create communication-efficient distributed training algorithms that enable large-scale machine learning while preserving theoretical guarantees, including the popular EF21 algorithm.
 
@@ -66,6 +66,10 @@ div[style*="background-color: #f8f9fa"]:hover {
 
 ---
 ## News {#news}
+- **April 2026** – Attending INFORMS IOS in Atlanta, U.S.A., as a Session organizer and speaker.
+- **March 2026** – Attending ELLIIT symposium and focus period on Optimization for Learning, Lund Sweden (Invited Visiting Scholar). 
+
+- **February 2026** – Finished a 5-month internship at Amazon as Applied Scientist Intern.
 - **December 2025** – Presented "Global Solutions to Non-Convex Functional Constrained Problems with Hidden Convexity." at NeurIPS Workshop on Constrained Optimization for Machine Learning. 
 _Oral Presentation Award for the best fundamental (theoretical or algorithmic) contribution._
 - **October 2025** – Started an Applied Scientist internship with Amazon’s Forecasting & Optimization team in Luxembourg, focusing on large-scale capacity management problems across the delivery network.
