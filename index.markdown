@@ -65,10 +65,14 @@ div[style*="background-color: #f8f9fa"]:hover {
 </style>
 
 ---
-## News {#news}
-- **April 2026** – Attending ELLIIT symposium and focus period on Optimization for Learning, Lund Sweden (Invited Visiting Scholar). 
-- **March 2026** – Attending INFORMS IOS in Atlanta, U.S.A., as a Session organizer and speaker.
+## Upcoming Events and Talks:
 
+- **June 2026** - Attending SIAM Conference on Optimization (OP26) in Edinburgh, United Kingdom (June 2-5), as an organizer of Minisymposium and invited speaker.
+- **May 2026** – Attending ELLIIT symposium and focus period on Optimization for Learning, Lund Sweden (Invited Visiting Scholar). 
+
+## News {#news}
+
+- **March 2026** – Attended INFORMS IOS in Atlanta, U.S.A., as a Session organizer and speaker.
 - **February 2026** – Finished a 5-month internship at Amazon as Applied Scientist Intern.
 - **December 2025** – Presented "Global Solutions to Non-Convex Functional Constrained Problems with Hidden Convexity." at NeurIPS Workshop on Constrained Optimization for Machine Learning. 
 _Oral Presentation Award for the best fundamental (theoretical or algorithmic) contribution._
