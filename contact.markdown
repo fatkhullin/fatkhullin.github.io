@@ -22,6 +22,6 @@ permalink: /contact/
 
 # Contact {#contact}
 
-Current address: ETH AI Center, OAT X 14, Andreasstrasse 5, 8092 Zürich, Switzerland
+Current address: Jen-Hsun Huang Engineering Center, Stanford, CA 94305, USA
 
-E-mail: name.last_name(at)ai(dot)ethz(dot)ch
+E-mail: fatkhullin.ilyas(at)gmail(dot)com
