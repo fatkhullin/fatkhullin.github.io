@@ -260,6 +260,11 @@ permalink: /publications/
   }
 
   .publications-hero {
+    position: relative;
+    width: auto;
+    max-width: none;
+    margin: 0;
+    float: none;
     padding: 34px 38px;
     border: 1px solid #dce4ee;
     border-radius: 22px;
@@ -328,7 +333,16 @@ permalink: /publications/
   }
 
   .publication-nav a:hover { border-color: #98b6f5; background: #f4f7ff; transform: translateY(-1px); }
-  .publication-group { scroll-margin-top: 24px; margin-top: 56px; }
+  .publication-group {
+    position: static;
+    width: auto;
+    max-width: none;
+    float: none;
+    padding: 0;
+    border: 0;
+    scroll-margin-top: 24px;
+    margin-top: 56px;
+  }
 
   .section-heading {
     display: flex;
