@@ -22,10 +22,12 @@ title: Ilyas Fatkhullin
 description: >- # this means to ignore newlines until "baseurl:"
   Postdoctoral Scholar at Stanford University
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://fatkhullin.github.io"
+author: Ilyas Fatkhullin
+image: /assets/my_photo_stanford.jpg
 #twitter_username: jekyllrb
 #github_username:  jekyll
-logo: /assets/my_photo_2025.jpg
+logo: /assets/my_photo_stanford.jpg
 # Build settings
 theme: jekyll-theme-minimal
 #theme: jekyll-theme-cayman

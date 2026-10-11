@@ -249,11 +249,11 @@ permalink: /publications/
 
 <style>
   .publications-page {
-    --ink: #182230;
-    --muted: #647184;
-    --line: #e4e9ef;
-    --blue: #155eef;
-    --navy: #12345b;
+    --ink: #2e2d29;
+    --muted: #53565a;
+    --line: #d5d5d4;
+    --blue: #006cb8;
+    --navy: #8c1515;
     max-width: 900px;
     margin: 0 auto 72px;
     color: var(--ink);
@@ -266,15 +266,15 @@ permalink: /publications/
     margin: 0;
     float: none;
     padding: 34px 38px;
-    border: 1px solid #dce4ee;
+    border: 1px solid #ead6d6;
     border-radius: 22px;
-    background: linear-gradient(135deg, #f7fbff 0%, #ffffff 52%, #fffaf3 100%);
-    box-shadow: 0 16px 45px rgba(24, 34, 48, 0.07);
+    background: linear-gradient(135deg, #fff7f7 0%, #ffffff 55%, #fbfaf8 100%);
+    box-shadow: 0 16px 45px rgba(46, 45, 41, 0.07);
   }
 
   .eyebrow, .section-kicker {
     margin: 0 0 7px;
-    color: var(--blue);
+    color: var(--navy);
     font-size: 0.76rem;
     font-weight: 750;
     letter-spacing: 0.13em;
@@ -292,7 +292,7 @@ permalink: /publications/
   .hero-copy {
     max-width: 690px;
     margin: 16px 0 24px;
-    color: #4d5a6c;
+    color: #53565a;
     font-size: 1.04rem;
     line-height: 1.7;
   }
@@ -307,7 +307,7 @@ permalink: /publications/
   .publication-stats div {
     min-width: 0;
     padding: 14px;
-    border: 1px solid rgba(21, 94, 239, 0.12);
+    border: 1px solid rgba(140, 21, 21, 0.16);
     border-radius: 13px;
     background: rgba(255, 255, 255, 0.78);
   }
@@ -332,7 +332,7 @@ permalink: /publications/
     font-weight: 650;
   }
 
-  .publication-nav a:hover { border-color: #98b6f5; background: #f4f7ff; transform: translateY(-1px); }
+  .publication-nav a:hover { border-color: rgba(140, 21, 21, 0.45); background: #fff7f7; color: #8c1515; transform: translateY(-1px); }
   .publication-group {
     position: static;
     width: auto;
@@ -396,7 +396,7 @@ permalink: /publications/
     background: #cdd6e1;
   }
 
-  .publication-card.featured::before { background: linear-gradient(#f79009, #fdb022); }
+  .publication-card.featured::before { background: linear-gradient(#8c1515, #b1040e); }
 
   .publication-card:hover {
     border-color: #c8d5e5;
@@ -427,10 +427,10 @@ permalink: /publications/
   .status { background: #fff6e7; color: #b54708; }
 
   .publication-card h3 { margin: 0; font-size: 1.08rem; line-height: 1.42; letter-spacing: -0.012em; }
-  .publication-card h3 a { color: #152c46; text-decoration: none; }
+  .publication-card h3 a { color: #2e2d29; text-decoration: none; }
   .publication-card h3 a:hover { color: var(--blue); }
-  .authors { margin: 9px 0 0; color: #596579; font-size: 0.91rem; line-height: 1.55; }
-  .authors strong { color: #27364a; font-weight: 750; }
+  .authors { margin: 9px 0 0; color: #53565a; font-size: 0.91rem; line-height: 1.55; }
+  .authors strong { color: #2e2d29; font-weight: 750; }
   .authors sup, .equal-contribution sup { color: var(--blue); font-weight: 750; }
   .publication-note, .publication-detail { margin: 11px 0 0; font-size: 0.84rem; line-height: 1.5; }
   .publication-note { color: #8a4b08; }
@@ -462,7 +462,7 @@ permalink: /publications/
     margin-top: 52px;
     padding: 24px 26px;
     border-radius: 16px;
-    background: #102a43;
+    background: #820000;
     color: #fff;
   }
 
@@ -475,7 +475,7 @@ permalink: /publications/
     padding: 9px 13px;
     border-radius: 9px;
     background: #fff;
-    color: #143a62;
+    color: #820000;
     font-size: 0.82rem;
     font-weight: 750;
   }

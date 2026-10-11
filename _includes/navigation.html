@@ -1,0 +1,8 @@
+<nav class="site-nav" aria-label="Primary navigation">
+  <div class="site-nav__inner">
+    <a class="site-nav__link{% if page.url == '/' or page.url contains '/about' %} is-active{% endif %}" href="/#about"{% if page.url == '/' or page.url contains '/about' %} aria-current="page"{% endif %}>About</a>
+    <a class="site-nav__link{% if page.url contains '/research' %} is-active{% endif %}" href="/research"{% if page.url contains '/research' %} aria-current="page"{% endif %}>Research</a>
+    <a class="site-nav__link{% if page.url contains '/publications' %} is-active{% endif %}" href="/publications"{% if page.url contains '/publications' %} aria-current="page"{% endif %}>Publications</a>
+    <a class="site-nav__link{% if page.url contains '/contact' %} is-active{% endif %}" href="/contact"{% if page.url contains '/contact' %} aria-current="page"{% endif %}>Contact</a>
+  </div>
+</nav>
