@@ -8,7 +8,7 @@ title: Ilyas Fatkhullin
 ## About
 {: #about}
 
-I am an incoming faculty member in the [Department of Mathematics](https://www.lse.ac.uk/Mathematics/Research/Optimisation-and-Algorithms) at the [London School of Economics and Political Science](https://www.lse.ac.uk/) (LSE), starting in 2027, and will be recruiting Ph.D. students.
+I am an incoming faculty member in the [Department of Mathematics](https://www.lse.ac.uk/Mathematics/Research/Optimisation-and-Algorithms) at the [London School of Economics and Political Science](https://www.lse.ac.uk/) (LSE), starting in 2027. I will be recruiting Ph.D. students for Fall 2027.
 
 I am a Postdoctoral Scholar in the [Department of Management Science and Engineering](https://msande.stanford.edu/) at [Stanford University](https://www.stanford.edu/), mentored by [Prof. Renyuan Xu](https://profiles.stanford.edu/renyuan-xu) and [Prof. Madeleine Udell](https://profiles.stanford.edu/madeleine-udell). I completed my Ph.D. in Computer Science at [ETH Zurich](https://ethz.ch/en.html) in September 2026, where I was an ETH AI Center Fellow advised by [Prof. Niao He](https://odi.inf.ethz.ch/niaohe). Previously, I worked with [Prof. Boris Polyak](https://scholar.google.com/citations?user=Zhlib28AAAAJ&hl=en) on control theory, [Prof. Guanghui (George) Lan](https://www.isye.gatech.edu/users/guanghui-lan) on functional constrained optimization, and [Prof. Peter Richtárik](https://richtarik.org) on communication-efficient distributed training.
 
@@ -28,17 +28,14 @@ I am recruiting Ph.D. students interested in optimization, machine learning, and
 
 My work centers on three interconnected pillars that address fundamental challenges in modern machine learning:
 
-<div class="section-actions">
-  <a class="site-button" href="/research">Explore Research Details →</a>
-</div>
+**Non-convex Optimization**: I develop mathematical foundations and algorithms for solving non-convex problems in learning and decision-making. My research seeks to identify exploitable structure and translate it into convergence guarantees and effective methods for increasingly complex models.
 
-**🔬 Non-convex Optimization**: I develop rigorous mathematical frameworks to understand complex optimization landscapes, including hidden convexity structures that enable global solutions to seemingly intractable non-convex problems.
+**Data Efficiency and Robustness**: I develop learning algorithms that make effective use of limited data and remain reliable under uncertainty. A central goal is to advance optimization and reinforcement learning methods that combine strong statistical guarantees with stable performance in practice.
 
-**⚡ Data Efficiency and Robustness**: I design robust algorithms that maintain performance under challenging statistical conditions, such as heavy-tailed noise and limited data scenarios, with particular relevance for policy gradient methods in reinforcement learning.
-
-**🚀 Scalable Systems**: I create communication-efficient distributed training algorithms that enable large-scale machine learning while preserving theoretical guarantees, including the popular EF21 algorithm.
+**Scalable Learning Systems**: I design optimization methods that address the computational and communication demands of large-scale learning. My research aims to connect algorithmic efficiency with reliable performance across distributed and resource-constrained environments.
 
 <div class="section-actions section-actions--spacious">
+  <a class="site-button" href="/research">Explore Research Details →</a>
   <a class="site-button" href="/publications">View All Publications →</a>
 </div>
 
