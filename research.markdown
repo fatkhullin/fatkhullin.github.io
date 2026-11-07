@@ -6,8 +6,8 @@ title: Research
 # Research
 
 <div class="research-intro">
-<h2>Building the Next Generation of AI Systems</h2>
-<p>Through rigorous theoretical foundations and principled algorithm design</p>
+<h2>Foundations and Algorithms for Reliable, Efficient AI</h2>
+<p>Optimization, machine learning, and reinforcement learning</p>
 </div>
 
 <!--
@@ -21,13 +21,26 @@ title: Research
 </div>
 -->
 
-My research develops the theoretical and algorithmic foundations of optimization and reinforcement learning (RL), aiming to understand how model structures, stochasticity, and their interaction shape the behavior of modern learning algorithms. Drawing on optimization and statistics foundations, I study questions in policy optimization, statistical inference, and distributed training–developing methods that remain principled even in complex and uncertain environments. Since AI systems are increasingly deployed in critical environments, such principled approaches are essential for creating trustworthy, efficient, and scalable learning algorithms.
+My research develops the mathematical foundations and algorithms for reliable, efficient, and scalable learning. Spanning optimization, machine learning, and reinforcement learning, my work connects rigorous theory with algorithm design to address challenges in decision-making, statistical inference, and distributed training. The three directions below form a connected research agenda, with applications ranging from autonomous systems to large-scale AI.
 
 
 
 
 <!-- Drop this <style> block once on the page -->
 <style>
+  .research-cards-container > a:focus-visible {
+    outline: 3px solid #006cb8;
+    outline-offset: 5px;
+  }
+  .research-cards-container > a:hover .research-card,
+  .research-cards-container > a:focus-visible .research-card {
+    border-color: #006cb8 !important;
+    transform: translateY(-3px);
+  }
+  .research-card { box-sizing: border-box; }
+  @media (prefers-reduced-motion: reduce) {
+    .research-card { transition: none !important; transform: none !important; }
+  }
   .row {
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -103,9 +116,9 @@ My research develops the theoretical and algorithmic foundations of optimization
 
 <!-- Non-convex Theory Card -->
 <a href="/research/theoretical-foundations" style="text-decoration: none; color: inherit; flex: 0 1 300px; min-width: 0;">
-<div class="research-card" style="background: white; padding: 20px; border-radius: 15px; box-shadow: 0 6px 12px rgba(0,0,0,0.1); width: 100%; text-align: center; transition: transform 0.3s ease, box-shadow 0.3s ease; height: 100%; display: flex; flex-direction: column;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.15)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 6px 12px rgba(0,0,0,0.1)'">
+<div class="research-card" style="background: white; padding: 20px; border: 1px solid #dedede; border-radius: 8px; width: 100%; text-align: center; transition: transform 0.3s ease, box-shadow 0.3s ease; height: 100%; display: flex; flex-direction: column;">
   <img src="/assets/nonconvex.png" alt="Hidden Convexity" style="width: 80%; height: 200px; object-fit: contain; margin: 0 auto 15px auto; flex-shrink: 0; display: block;">
-  <h3 style="color: #2e2d29; margin: 15px 0 10px 0; flex-shrink: 0;">🔬 Non-convex Theory</h3>
+  <h3 style="color: #2e2d29; margin: 15px 0 10px 0; flex-shrink: 0;">Non-convex Optimization</h3>
   <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center; margin: 15px 0; flex-shrink: 0;">
     <span style="background: #e8f5e8; color: #2e7d32; padding: 4px 8px; border-radius: 12px; font-size: 0.8em;">Hidden Convexity</span>
     <span style="background: #e8f5e8; color: #2e7d32; padding: 4px 8px; border-radius: 12px; font-size: 0.8em;">Global Optimization</span>
@@ -117,9 +130,9 @@ My research develops the theoretical and algorithmic foundations of optimization
 
 <!-- Data Efficiency Card -->
 <a href="/research/data-efficiency" style="text-decoration: none; color: inherit; flex: 0 1 300px; min-width: 0;">
-<div class="research-card" style="background: white; padding: 20px; border-radius: 15px; box-shadow: 0 6px 12px rgba(0,0,0,0.1); width: 100%; text-align: center; transition: transform 0.3s ease, box-shadow 0.3s ease; height: 100%; display: flex; flex-direction: column;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.15)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 6px 12px rgba(0,0,0,0.1)'">
+<div class="research-card" style="background: white; padding: 20px; border: 1px solid #dedede; border-radius: 8px; width: 100%; text-align: center; transition: transform 0.3s ease, box-shadow 0.3s ease; height: 100%; display: flex; flex-direction: column;">
   <img src="/assets/robustness.png" alt="Robust Algorithms" style="width: 80%; height: 200px; object-fit: contain; margin: 0 auto 15px auto; flex-shrink: 0; display: block;">
-  <h3 style="color: #2e2d29; margin: 15px 0 10px 0; flex-shrink: 0;">⚡ Data Efficiency and Robustness</h3>
+  <h3 style="color: #2e2d29; margin: 15px 0 10px 0; flex-shrink: 0;">Data Efficiency and Robustness</h3>
   <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center; margin: 15px 0; flex-shrink: 0;">
     <span style="background: #eaf4f8; color: #006cb8; padding: 4px 8px; border-radius: 12px; font-size: 0.8em;">Heavy-Tailed Noise</span>
     <span style="background: #eaf4f8; color: #006cb8; padding: 4px 8px; border-radius: 12px; font-size: 0.8em;">Policy Gradients</span>
@@ -131,9 +144,9 @@ My research develops the theoretical and algorithmic foundations of optimization
 
 <!-- Scalable Systems Card -->
 <a href="/research/scalable-systems" style="text-decoration: none; color: inherit; flex: 0 1 300px; min-width: 0;">
-<div class="research-card" style="background: white; padding: 20px; border-radius: 15px; box-shadow: 0 6px 12px rgba(0,0,0,0.1); width: 100%; text-align: center; transition: transform 0.3s ease, box-shadow 0.3s ease; height: 100%; display: flex; flex-direction: column;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.15)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 6px 12px rgba(0,0,0,0.1)'">
+<div class="research-card" style="background: white; padding: 20px; border: 1px solid #dedede; border-radius: 8px; width: 100%; text-align: center; transition: transform 0.3s ease, box-shadow 0.3s ease; height: 100%; display: flex; flex-direction: column;">
   <img src="/assets/federated_learning.png" alt="EF21 Algorithm" style="width: 80%; height: 190px; object-fit: contain; margin: 0 auto 15px auto; flex-shrink: 0; display: block;">
-  <h3 style="color: #2e2d29; margin: 15px 0 10px 0; flex-shrink: 0;">🚀 Scalable Systems</h3>
+  <h3 style="color: #2e2d29; margin: 15px 0 10px 0; flex-shrink: 0;">Scalable Systems</h3>
   <div style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center; margin: 15px 0; flex-shrink: 0;">
     <span style="background: #fff1f1; color: #8c1515; padding: 4px 8px; border-radius: 12px; font-size: 0.8em;">Distributed Training</span>
     <span style="background: #fff1f1; color: #8c1515; padding: 4px 8px; border-radius: 12px; font-size: 0.8em;">Communication</span>
@@ -144,3 +157,12 @@ My research develops the theoretical and algorithmic foundations of optimization
 </a>
 
 </div>
+
+
+## Prospective Students {#prospective-students}
+
+I will join the [Department of Mathematics](https://www.lse.ac.uk/Mathematics/Research/Optimisation-and-Algorithms) at the [London School of Economics and Political Science](https://www.lse.ac.uk/) (LSE) as a faculty member in 2027, where I will be recruiting Ph.D. students.
+
+I am recruiting Ph.D. students interested in optimization, machine learning, and reinforcement learning. If you would like to join my group, please complete the [prospective student interest form](https://docs.google.com/forms/d/e/1FAIpQLScsb6wWtxtYLWDCNMDD4LQs1AWWqaQ3zbIiw3LmVppW91uxEg/viewform?usp=dialog).
+
+My research spans mathematical analysis, algorithm development, and empirical evaluation. Students with backgrounds in mathematics, computer science, statistics, or related fields are welcome to reach out and apply.
