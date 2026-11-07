@@ -10,4 +10,4 @@ permalink: /contact/
 
 Current address: Jen-Hsun Huang Engineering Center, Room 212, Stanford, CA 94305, USA
 
-E-mail: fatkhullin.ilyas(at)gmail(dot)com
+E-mail: [fatkhullin@stanford.edu](mailto:fatkhullin@stanford.edu)

@@ -42,7 +42,8 @@ My work centers on three interconnected pillars that address fundamental challen
 ## News {#news}
 
 <ul class="news-list">
-  <li><strong>November 2026</strong> – I will be attending the <a href="https://meetings.informs.org/wordpress/annual/">2026 INFORMS Annual Meeting</a> in San Francisco, California (November 1–4, 2026).</li>
+  <li><strong>December 2026</strong> – I will be attending <a href="https://neurips.cc/Conferences/2026">NeurIPS 2026</a> in Atlanta, Georgia (December 9–13, 2026).</li>
+  <li><strong>November 2026</strong> – I attended the <a href="https://meetings.informs.org/wordpress/annual/">2026 INFORMS Annual Meeting</a> in San Francisco, California (November 1–4, 2026).</li>
   <li><strong>October 2026</strong> – Joined the <a href="https://msande.stanford.edu/">Department of Management Science and Engineering</a> at <a href="https://www.stanford.edu/">Stanford University</a> as a Postdoctoral Scholar, working with <a href="https://profiles.stanford.edu/renyuan-xu">Prof. Renyuan Xu</a> and <a href="https://profiles.stanford.edu/madeleine-udell">Prof. Madeleine Udell</a>.</li>
   <li><strong>September 2026</strong> – Completed my Ph.D. in Computer Science at ETH Zurich. My dissertation is titled <em>Structure, Geometry, and Noise in Stochastic First-Order Optimization</em>.</li>
   <li><strong>August 2026</strong> – We are organizing the <a href="https://swiss-opt.github.io/speakers/">Swiss Optimization Symposium</a>, taking place at Monte Verità in Ascona, Switzerland (August 23–27, 2026).</li>
