@@ -161,8 +161,6 @@ My research develops the mathematical foundations and algorithms for reliable, e
 
 ## Prospective Students {#prospective-students}
 
-I will join the [Department of Mathematics](https://www.lse.ac.uk/Mathematics/Research/Optimisation-and-Algorithms) at the [London School of Economics and Political Science](https://www.lse.ac.uk/) (LSE) as an Assistant Professor in 2027, where I will be recruiting Ph.D. students.
-
-I am recruiting Ph.D. students interested in optimization, machine learning, and reinforcement learning. If you would like to join my group, please complete the [prospective student interest form](https://docs.google.com/forms/d/e/1FAIpQLScsb6wWtxtYLWDCNMDD4LQs1AWWqaQ3zbIiw3LmVppW91uxEg/viewform?usp=dialog).
+I will join the [Department of Mathematics](https://www.lse.ac.uk/mathematics/people) at the [London School of Economics and Political Science](https://www.lse.ac.uk/) (LSE) as an Assistant Professor in 2027. I am recruiting Ph.D. students for Fall 2027 to work on optimization, machine learning, and reinforcement learning. To express your interest in joining my group, please complete the [prospective student interest form](https://docs.google.com/forms/d/e/1FAIpQLScsb6wWtxtYLWDCNMDD4LQs1AWWqaQ3zbIiw3LmVppW91uxEg/viewform?usp=dialog).
 
 My research spans mathematical analysis, algorithm development, and empirical evaluation. Students with backgrounds in mathematics, computer science, statistics, or related fields are welcome to reach out and apply.
