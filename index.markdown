@@ -8,7 +8,7 @@ title: Ilyas Fatkhullin
 ## About
 {: #about}
 
-Ph.D. positions available for Fall 2027 at LSE in London.
+<p style="text-align: center;"><a href="https://docs.google.com/forms/d/e/1FAIpQLScsb6wWtxtYLWDCNMDD4LQs1AWWqaQ3zbIiw3LmVppW91uxEg/viewform?usp=dialog" style="color: #2e2d29; font-weight: 600;">Ph.D. positions available for Fall 2027 at LSE in London.</a></p>
 
 I am an incoming Assistant Professor in the [Department of Mathematics](https://www.lse.ac.uk/mathematics/people) at the [London School of Economics and Political Science](https://www.lse.ac.uk/) (LSE), starting in 2027. Currently, I am a Postdoctoral Scholar in the [Department of Management Science and Engineering](https://msande.stanford.edu/) at [Stanford University](https://www.stanford.edu/), mentored by [Prof. Renyuan Xu](https://profiles.stanford.edu/renyuan-xu) and [Prof. Madeleine Udell](https://profiles.stanford.edu/madeleine-udell).
 
